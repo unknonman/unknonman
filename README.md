@@ -1,4 +1,4 @@
-### Hi there, I'm [Anubhav Jain][website] 👋
+### Hi there, I'm [Arihant Jain][website] 👋
 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects
