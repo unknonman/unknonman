@@ -1,23 +1,18 @@
 ### Hi there, I'm [Arihant Jain][website] 👋
 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute to Open Source projects
+- 📚 learing and improving everyday
 
 
 
 ### Connect with me:
 
 [<img align="left" alt="Anubhavjain786" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Anubhavjain786 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Anubhavjain786 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Anubhavjain786 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Anubhavjain786 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Anubhavjain786 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Anubhavjain786 | spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
-[<img align="left" alt="Anubhavjain786 | skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />][skype]
-[<img align="left" alt="Anubhavjain786 | steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
 [<img align="left" alt="Anubhavjain786 | discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<img align="left" alt="Anubhavjain786 | discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" />][npm]
 <br />
 
 ---
@@ -30,7 +25,6 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][website]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website]
@@ -42,14 +36,8 @@
 
 
 
-[website]: https://github.com/Anubhavjain786
-[twitter]: https://twitter.com/anubhavjain660
-[youtube]: https://www.youtube.com/channel/UCliMwmRiMxefg8miMtWolCg
-[instagram]: https://www.instagram.com/anubhav_jain_anu/
-[linkedin]: https://www.linkedin.com/in/anubhav-jain-8a5699103/
-[facebook]: https://www.facebook.com/anubhavjain786
-[spotify]: https://open.spotify.com/user/iqlf1u44g9ikxb56n3wwnlngm
-[skype]: https://join.skype.com/invite/pmNI3tIEwvqP
-[steam]: https://steamcommunity.com/id/RockStarAJ/
-[discord]: https://discord.gg/VdM3Ss
-[npm]: https://www.npmjs.com/~anubhavjain786
+[website]: https://github.com/unknonman
+[instagram]: https://www.instagram.com/unknon_man/
+[linkedin]: https://www.linkedin.com/in/arihant-jain-a31a99266
+[facebook]: https://m.facebook.com/people/Arihant-Jain/100008256787236/
+[discord]: discordapp.com/users/506167459414540289
